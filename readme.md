@@ -1,5 +1,5 @@
 ## Host Database
-Update the host database of the machine to translate certain hostname into IP Address. In this case, translate the `www.lastpass.oom` hostname to `127.0.0.1` IP Address.
+Update the host database of the machine to resolve certain domain to IP Addresses. In this case, resolve `lastpass.oom` domain to `127.0.0.1` IP Address.
 
 ### Path
 Linux: /etc/hosts \
